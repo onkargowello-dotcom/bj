@@ -91,7 +91,7 @@ function App() {
           {/* Backend connected via FormSubmit */}
           <form
             className="contact-form"
-            action="https://formsubmit.co/onkardate9@gmail.com"
+            action="https://formsubmit.co/el/yuzexi/onkardate9@gmail.com"
             method="POST"
           >
             <input type="text" name="name" placeholder="Your Name" required />
